@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <link rel="icon" href="img/livrojs.png">
+  <link rel="shortcut icon" href="https://www.freepnglogos.com/uploads/corac-o-rosa-png/corac-o-rosa-contorno-transparente-baixar-hd-7.png" type="image/x-icon">
+  <link rel="stylesheet" href="estilos.css">
+  <title>Exemplo 6.2</title>
+</head>
+
+<body>
+  <img src="imagem-adivinha.jpg" alt="Jogo dos Números" class="normal">
+  <h1>Jogo Descubra o Número</h1>
+  <div>
+    <p>Número:
+      <input type="number" min="1" max="100" id="inNumero" required autofocus>
+      <input type = "submit" value="Apostar" id="btSubmit">
+      <input type="button" value="Jogar Novamente" id="btNovo" class="oculta">
+    </p>
+  </div>
+  <h3>Erros: <span id="outErros">0</span></h3>
+  <h3>Chances: <span id="outChances">6</span></h3>
+  <h3 id="outDica" class="italico">Dica: É um número entre 1 e 100</h3>
+  <h3><span id="outSaida" class="italico"></span></h3>
+  <script src="adivinha_numero.js"></script>
+</body>
+</html>
