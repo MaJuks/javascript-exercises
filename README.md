@@ -110,7 +110,7 @@ ProgramaJavaScript/
 **Maria Júlia**
 GitHub: [@MaJuks](https://github.com/MaJuks)
 
-Projeto iniciado em **julho de 2022**.
+Projeto iniciado em **06/07/2022**.
 
 ---
 
@@ -120,8 +120,3 @@ Projeto iniciado em **julho de 2022**.
 
 Exercícios concluídos. Repositório mantido como portfólio acadêmico.
 
----
-
-## Licença
-
-Este projeto não possui licença formal. Desenvolvido para fins educacionais.
